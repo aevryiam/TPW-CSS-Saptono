@@ -1,0 +1,69 @@
+.Soal8{
+    width: 400px; 
+    height: 300px; 
+    position: relative; 
+    background: #B551E3
+}
+
+.Ellipse16{
+    width: 200px; 
+    height: 200px; 
+    left: 100px; 
+    top: 50px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 9999px
+}
+
+.Rectangle32{
+    width: 200px; 
+    height: 100px; 
+    left: 100px; 
+    top: 250px; 
+    position: absolute; 
+    transform: rotate(-90deg); 
+    transform-origin: 0 0; 
+    background: black; 
+    border-top-left-radius: 999px; 
+    border-top-right-radius: 999px
+}
+
+.Rectangle33{
+    width: 100px; 
+    height: 100px; 
+    left: 150px; 
+    top: 50px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 999px
+}
+
+.Rectangle34{
+    width: 100px; 
+    height: 100px; 
+    left: 150px; 
+    top: 150px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 999px
+}
+
+.Rectangle35{
+    width: 40px; 
+    height: 40px; 
+    left: 180px; 
+    top: 180px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 999px
+}
+
+.Rectangle36{
+    width: 40px; 
+    height: 40px; 
+    left: 180px; 
+    top: 80px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 999px
+}
