@@ -1,0 +1,62 @@
+.Soal6 {
+    background-color: #03011c;
+    display: flex;
+    max-width: 400px;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    padding: 83px 80px;
+  }
+  
+  .circle-container {
+    display: flex;
+    width: 90px;
+    flex-direction: column;
+  }
+  
+  .circle-row {
+    display: flex;
+  }
+  
+  .circle {
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+  }
+  
+  .circle-left {
+    border-radius: 50% 0 0 50%;
+  }
+  
+  .circle-right {
+    border-radius: 0 50% 50% 0;
+  }
+  
+  .circle-full {
+    border-radius: 50%;
+  }
+  
+  .circle-bottom {
+    border-radius: 50% 0 50% 50%;
+  }
+  
+  .orange {
+    background-color: #f24e1e;
+  }
+  
+  .coral {
+    background-color: #ff7262;
+  }
+  
+  .purple {
+    background-color: #a259ff;
+  }
+  
+  .blue {
+    background-color: #1abcfe;
+  }
+  
+  .green {
+    background-color: #0acf83;
+  }
