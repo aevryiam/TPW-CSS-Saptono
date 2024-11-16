@@ -1,0 +1,26 @@
+.Soal3{
+    width: 400px; 
+    height: 300px; 
+    position: relative; 
+    background: #F5D6B4
+    }
+
+.Rectangle23{
+    width: 200px; 
+    height: 200px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #D86F45; 
+    border-radius: 999px
+}
+
+.Rectangle24{
+    width: 200px; 
+    height: 200px; 
+    left: 200px; 
+    top: 100px; 
+    position: absolute; 
+    background: #D86F45; 
+    border-radius: 999px
+}
