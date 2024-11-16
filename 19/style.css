@@ -1,0 +1,142 @@
+.Soal19 {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    background: #9A8235;
+}
+
+.Ellipse46 {
+    width: 80px;
+    height: 80px;
+    left: 160px;
+    top: 240px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    background: black;
+    border-radius: 9999px;
+}
+
+.Ellipse47 {
+    width: 80px;
+    height: 80px;
+    left: 160px;
+    top: 140px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    background: #EDF43E;
+    border-radius: 9999px;
+}
+
+.Rectangle89 {
+    width: 100px;
+    height: 80px;
+    left: 160px;
+    top: 200px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    background: #EDF43E;
+}
+
+.Ellipse48 {
+    width: 80px;
+    height: 80px;
+    left: 80px;
+    top: 70px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+}
+
+.Ellipse49 {
+    width: 80px;
+    height: 80px;
+    left: 80px;
+    top: 150px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+}
+
+.Rectangle90 {
+    width: 45px;
+    height: 85px;
+    left: 115px;
+    top: 105px;
+    position: absolute;
+    background: white;
+}
+
+.Ellipse48.rotated,
+.Ellipse49.rotated,
+.Rectangle90.rotated {
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+}
+
+.Ellipse48.rotated {
+    left: 320px;
+    top: 230px;
+}
+
+.Ellipse49.rotated {
+    left: 320px;
+    top: 150px;
+}
+
+.Rectangle90.rotated {
+    left: 285px;
+    top: 195px;
+}
+
+.Ellipse50 {
+    width: 10px;
+    height: 10px;
+    left: 180px;
+    top: 83px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+}
+
+.Ellipse51 {
+    width: 10px;
+    height: 10px;
+    left: 210px;
+    top: 83px;
+    position: absolute;
+    background: #1A1613;
+    border-radius: 9999px;
+}
+
+.Rectangle91,
+.Rectangle92,
+.Rectangle93,
+.Rectangle94 {
+    width: 80px;
+    height: 14px;
+    position: absolute;
+    background: #1A1613;
+}
+
+.Rectangle91 {
+    left: 160px;
+    top: 124px;
+}
+
+.Rectangle92 {
+    left: 160px;
+    top: 143px;
+}
+
+.Rectangle93 {
+    left: 160px;
+    top: 162px;
+}
+
+.Rectangle94 {
+    left: 160px;
+    top: 181px;
+}
