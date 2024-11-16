@@ -1,0 +1,57 @@
+.Soal1 {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    background: #E3516E;
+}
+
+.Rectangle1, .Rectangle2, .Rectangle3, .Rectangle4, .Rectangle5, .Rectangle6, .Rectangle7, .Rectangle8, 
+.Rectangle11, .Rectangle12, .Rectangle13, .Rectangle9, .Rectangle10, .Ellipse1, .Ellipse2, .Ellipse3, 
+.Ellipse4, .Ellipse5, .Ellipse6, .Ellipse7, .Ellipse8, .Ellipse9, .Ellipse10, .Ellipse11, .Ellipse12, 
+.Ellipse13, .Rectangle14, .Rectangle16, .Rectangle17, .Rectangle18, .Rectangle19, .Rectangle20, 
+.Rectangle21, .Rectangle22, .Rectangle23, .Rectangle24, .Rectangle25 {
+    position: absolute;
+    background: #FADE8D;
+}
+
+.Rectangle1 { width: 40px; height: 40px; left: 100px; top: 50px; }
+.Rectangle2 { width: 40px; height: 40px; left: 180px; top: 50px; }
+.Rectangle3 { width: 40px; height: 40px; left: 260px; top: 50px; }
+.Rectangle4 { width: 40px; height: 40px; left: 220px; top: 90px; }
+.Rectangle5 { width: 40px; height: 40px; left: 140px; top: 90px; }
+.Rectangle6 { width: 40px; height: 40px; left: 100px; top: 130px; }
+.Rectangle7 { width: 40px; height: 40px; left: 180px; top: 130px; }
+.Rectangle8 { width: 40px; height: 40px; left: 260px; top: 130px; }
+.Rectangle11 { width: 40px; height: 40px; left: 100px; top: 210px; }
+.Rectangle12 { width: 40px; height: 40px; left: 180px; top: 210px; }
+.Rectangle13 { width: 40px; height: 40px; left: 260px; top: 210px; }
+.Rectangle9 { width: 40px; height: 40px; left: 220px; top: 170px; }
+.Rectangle10 { width: 40px; height: 40px; left: 140px; top: 170px; }
+.Rectangle14 { width: 14px; height: 40px; left: 113px; top: 210px; background: #E3516E; }
+.Rectangle16 { width: 14px; height: 28px; left: 185px; top: 216px; background: #E3516E; }
+.Rectangle17 { width: 14px; height: 14px; left: 202px; top: 223px; background: #E3516E; }
+.Rectangle18 { width: 40px; height: 14px; left: 260px; top: 223px; background: #E3516E; }
+.Rectangle19 { width: 40px; height: 14px; left: 260.91px; top: 79.19px; transform: rotate(-45deg); transform-origin: 0 0; background: #E3516E; }
+.Rectangle20 { width: 40px; height: 14px; left: 129.28px; top: 89.18px; transform: rotate(-135deg); transform-origin: 0 0; background: #E3516E; }
+.Rectangle21 { width: 14px; height: 14px; left: 193px; top: 62px; background: #E3516E; }
+.Rectangle22 { width: 40px; height: 14px; left: 261px; top: 159.28px; transform: rotate(-45deg); transform-origin: 0 0; background: #E3516E; }
+.Rectangle23 { width: 40px; height: 14px; left: 289.28px; top: 169.18px; transform: rotate(-135deg); transform-origin: 0 0; background: #E3516E; }
+.Rectangle24 { width: 40px; height: 14px; left: 101px; top: 159.28px; transform: rotate(-45deg); transform-origin: 0 0; background: #E3516E; }
+.Rectangle25 { width: 40px; height: 14px; left: 129.28px; top: 169.18px; transform: rotate(-135deg); transform-origin: 0 0; background: #E3516E; }
+
+.Ellipse1, .Ellipse2, .Ellipse3, .Ellipse4, .Ellipse5, .Ellipse6, .Ellipse7, .Ellipse8, .Ellipse9, .Ellipse10, .Ellipse11, .Ellipse12, .Ellipse13 {
+    border-radius: 9999px;
+}
+.Ellipse1 { width: 22px; height: 22px; left: 109px; top: 179px; }
+.Ellipse2 { width: 22px; height: 22px; left: 189px; top: 179px; }
+.Ellipse3 { width: 22px; height: 22px; left: 269px; top: 179px; }
+.Ellipse4 { width: 22px; height: 22px; left: 229px; top: 219px; }
+.Ellipse5 { width: 22px; height: 22px; left: 149px; top: 219px; }
+.Ellipse6 { width: 22px; height: 22px; left: 109px; top: 99px; }
+.Ellipse7 { width: 22px; height: 22px; left: 189px; top: 99px; }
+.Ellipse8 { width: 22px; height: 22px; left: 269px; top: 99px; }
+.Ellipse9 { width: 22px; height: 22px; left: 229px; top: 59px; }
+.Ellipse10 { width: 22px; height: 22px; left: 149px; top: 59px; }
+.Ellipse11 { width: 22px; height: 22px; left: 189px; top: 139px; background: #E3516E; }
+.Ellipse12 { width: 18px; height: 18px; left: 191px; top: 141px; }
+.Ellipse13 { width: 12px; height: 12px; left: 194px; top: 144px; background: #E3516E; }
