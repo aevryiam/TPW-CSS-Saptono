@@ -1,0 +1,115 @@
+.Soal20{
+    width: 400px; 
+    height: 300px; 
+    padding-top: 67px; 
+    padding-bottom: 68px; 
+    padding-left: 50px; 
+    padding-right: 50px; 
+    background: #FAFAFA; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Group52{
+    width: 300px; 
+    height: 165px; 
+    position: relative
+}
+
+.Ellipse52{
+    width: 150px; 
+    height: 150px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #1A7ABF; 
+    border-radius: 9999px
+}
+
+.Ellipse56{
+    width: 150px; 
+    height: 150px; 
+    left: 0px; 
+    top: 15px; 
+    position: absolute; 
+    background: #FAFAFA; 
+    border-radius: 9999px
+}
+
+.Ellipse53{
+    width: 150px; 
+    height: 150px; 
+    left: 150px; 
+    top: 0px; 
+    position: absolute; 
+    background: #1A7ABF; 
+    border-radius: 9999px
+}
+
+.Ellipse57{
+    width: 150px; 
+    height: 150px; 
+    left: 150px; 
+    top: 15px; 
+    position: absolute; 
+    background: #FAFAFA; 
+    border-radius: 9999px
+}
+
+.Group51{
+    width: 201.50px; 
+    height: 50px; 
+    left: 49px; 
+    top: 65px; 
+    position: absolute
+}
+
+.Ellipse59{
+    width: 50px; 
+    height: 50px; 
+    left: 0.50px; 
+    top: 0px; 
+    position: absolute; 
+    background: #1A7ABF; 
+    border-radius: 9999px
+}
+
+.Ellipse61{
+    width: 50px;
+    height: 50px; 
+    left: 151px; 
+    top: 0px; 
+    position: absolute; 
+    background: #1A7ABF; 
+    border-radius: 9999px
+}
+
+.Ellipse60{
+    width: 40px; 
+    height: 40px; 
+    left: 0px; 
+    top: 5.50px; 
+    position: absolute;
+    background: #FAFAFA; 
+    border-radius: 9999px
+}
+
+.Ellipse62{
+    width: 40px; 
+    height: 40px; 
+    left: 161.50px; 
+    top: 5.50px; 
+    position: absolute; 
+    background: #FAFAFA; 
+    border-radius: 9999px
+}
+
+.Rectangle95{
+    width: 114px; 
+    height: 6px; 
+    left: 44px; 
+    top: 22.50px; 
+    position: absolute; 
+    background: #1A7ABF
+}
