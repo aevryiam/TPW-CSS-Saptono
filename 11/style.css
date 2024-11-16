@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: black; /* Background hitam */
+    background: black;
     display: flex;
     justify-content: center;
     align-items: center;
