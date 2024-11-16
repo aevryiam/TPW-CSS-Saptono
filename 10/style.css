@@ -1,0 +1,96 @@
+.Soal10{
+    width: 400px; 
+    height: 300px; 
+    position: relative; 
+    background: white
+}
+
+.Ellipse17{
+    width: 50px; 
+    height: 50px; 
+    left: 175px; 
+    top: 125px; 
+    position: absolute; 
+    background: #110058; 
+    border-radius: 9999px
+}
+
+.Ellipse21{
+    width: 50px; 
+    height: 50px; 
+    left: 95px; 
+    top: 125px; 
+    position: absolute; 
+    background: #110058; 
+    border-radius: 9999px
+}
+
+.Ellipse20{
+    width: 50px; 
+    height: 50px; 
+    left: 255px; 
+    top: 125px; 
+    position: absolute; 
+    background: #110058; 
+    border-radius: 9999px
+}
+
+.Ellipse19{
+    width: 50px; 
+    height: 50px; 
+    left: 175px; 
+    top: 205px; 
+    position: absolute; 
+    background: #110058;
+     border-radius: 9999px
+}
+
+.Ellipse18{
+    width: 50px; 
+    height: 50px; 
+    left: 175px; 
+    top: 45px; 
+    position: absolute; 
+    background: #110058; 
+    border-radius: 9999px
+}
+
+.Rectangle37{
+    width: 32px; 
+    height: 8px; 
+    left: 144px; 
+    top: 146px; 
+    position: absolute; 
+    background: #110058
+}
+
+.Rectangle38{
+    width: 32px; 
+    height: 8px; 
+    left: 224px; 
+    top: 146px; 
+    position: absolute; 
+    background: #110058
+}
+
+.Rectangle39{
+    width: 32px; 
+    height: 8px; 
+    left: 204px; 
+    top: 174px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    background: #110058
+}
+
+.Rectangle40{
+    width: 32px; 
+    height: 8px; 
+    left: 196px; 
+    top: 126px; 
+    position: absolute; 
+    transform: rotate(-90deg); 
+    transform-origin: 0 0; 
+    background: #110058
+}
