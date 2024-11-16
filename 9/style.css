@@ -1,0 +1,117 @@
+.Soal9 {
+    width: 400px;
+    height: 300px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #51BCE3;
+}
+
+.Group2 {
+    width: 240px;
+    height: 240px;
+    position: relative;
+}
+
+.Rectangle9 {
+    width: 39px;
+    height: 55px;
+    position: absolute;
+    left: 0px;
+    top: 139px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle8 {
+    width: 39px;
+    height: 60.52px;
+    position: absolute;
+    left: 48.98px;
+    top: 219.20px;
+    transform: rotate(-135.09deg);
+    transform-origin: 0 0;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle7 {
+    width: 39px;
+    height: 55px;
+    position: absolute;
+    left: 100px;
+    top: 185px;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle10 {
+    width: 39.48px;
+    height: 57.74px;
+    position: absolute;
+    left: 90.60px;
+    top: 61.89px;
+    transform: rotate(135.09deg);
+    transform-origin: 0 0;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle6 {
+    width: 39.08px;
+    height: 58.41px;
+    position: absolute;
+    left: 219.18px;
+    top: 191.05px;
+    transform: rotate(135.09deg);
+    transform-origin: 0 0;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle5 {
+    width: 39px;
+    height: 64px;
+    position: absolute;
+    left: 176px;
+    top: 139px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle4 {
+    width: 40.22px;
+    height: 57.77px;
+    position: absolute;
+    left: 177.91px;
+    top: 90.29px;
+    transform: rotate(-135.09deg);
+    transform-origin: 0 0;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Rectangle3 {
+    width: 39px;
+    height: 55px;
+    position: absolute;
+    left: 100px;
+    top: 0px;
+    background: #1A2140;
+    border-radius: 15px;
+}
+
+.Ellipse1 {
+    width: 185.81px;
+    height: 185.21px;
+    position: absolute;
+    left: 27.10px;
+    top: 27.78px;
+    background: #1A2140;
+    border-radius: 9999px;
+}
