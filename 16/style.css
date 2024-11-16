@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    display: flex;
+    height: 100vh;
+}
+
+.container {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    background: #18388B;
+}
+
+.box {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+}
+
+.box1 { left: 40px; top: 255px; background: #B069F7; }
+.box2 { left: 150px; top: 255px; background: #F8D939; }
+.box3 { left: 260px; top: 255px; background: #B069F7; }
+.box4 { left: 315px; top: 255px; background: #EE5063; }
+.box5 { left: 40px; top: 200px; background: #EE5063; }
+.box6 { left: 95px; top: 200px; background: #2BE2ED; }
+.box7 { left: 205px; top: 200px; background: #2BE2ED; }
+.box8 { left: 260px; top: 200px; background: #2BE2ED; }
+.box9 { left: 150px; top: 145px; background: #F8D939; }
+.box10 { left: 260px; top: 145px; background: #F8D939; }
+.box11 { left: 315px; top: 145px; background: #EE5063; }
+.box12 { left: 40px; top: 90px; background: #2BE2ED; }
+.box13 { left: 95px; top: 90px; background: #F8D939; }
+.box14 { left: 150px; top: 90px; background: #EE5063; }
+.box15 { left: 205px; top: 90px; background: #B069F7; }
+.box16 { left: 315px; top: 90px; background: #B069F7; }
+.box17 { left: 40px; top: 35px; background: #EE5063; }
+.box18 { left: 205px; top: 35px; background: #2BE2ED; }
+.box19 { left: 260px; top: 35px; background: #F8D939; }
