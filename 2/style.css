@@ -1,0 +1,109 @@
+.container {
+  width: 400px;
+  height: 300px;
+  position: relative;
+  background: #293362;
+}
+
+.box {
+  position: absolute;
+}
+
+.yellow {
+  width: 200px;
+  height: 200px;
+  background: #FFF1C1;
+  left: 0;
+  top: 0;
+}
+
+.red {
+  background: #FE6056;
+  align-items: center;
+}
+
+.tall {
+  width: 100px;
+  height: 200px;
+  left: 200px;
+  top: 0;
+}
+
+.wide {
+  width: 200px;
+  height: 100px;
+  left: 0;
+  top: 200px;
+}
+
+.dark {
+  background: #A64942;
+}
+
+.small {
+  width: 50px;
+  height: 100px;
+  left: 150px;
+  top: 200px;
+}
+
+.tiny {
+  width: 100px;
+  height: 50px;
+  left: 200px;
+  top: 150px;
+}
+.triangle {
+  width: 0;
+  height: 0;
+  align-items: center;
+  border-left: 37px solid transparent;
+  border-right: 37px solid transparent;
+  border-bottom: 63px solid #293362;
+  position: relative;
+  display: block;
+  margin: 60px auto;
+}
+.triangle2 {
+  width: 0;
+  height: 0;
+  align-items: center;
+  border-top: 37px solid transparent;
+  border-bottom: 37px solid transparent;
+  border-right: 63px solid #293362;
+  position: relative;
+  display: block;
+  margin: 14px 60px;
+}
+.star {
+  position: relative;
+  display: block;
+  margin: 50px auto;
+  width: 100px;
+  height: 100px;
+  background-color: transparent;
+  clip-path: polygon(
+    50% 0%, 61% 35%, 98% 35%, 
+    68% 57%, 79% 91%, 50% 70%, 
+    21% 91%, 32% 57%, 2% 35%, 
+    39% 35%
+  );
+  background: #293362;
+}
+
+.star2 {
+  position: absolute;
+  display: block;
+  right: 0;
+  bottom: 0;
+  width: 100px;
+  height: 100px;
+  background-color: transparent;
+  clip-path: polygon(
+    50% 0%, 61% 35%, 98% 35%, 
+    68% 57%, 79% 91%, 50% 70%, 
+    21% 91%, 32% 57%, 2% 35%, 
+    39% 35%
+  );
+  background: #E3516E;
+}
