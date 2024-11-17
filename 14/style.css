@@ -1,0 +1,140 @@
+.container {
+    width: 400px;
+    height: 300px;
+    padding: 50px 100px;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+  }
+  
+  .inner-container {
+    width: 200px;
+    height: 200px;
+    position: relative;
+  }
+  
+  .background {
+    width: 200px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #D52440 0%, #B32533 100%);
+    border-radius: 58px;
+  }
+  
+  .panah1 {
+    width: 100px;
+    height: 50px;
+    left: 55px;
+    top: 40px;
+    position: absolute;
+    background: white;
+    border-radius: 100px 100px 0 0;
+    transform: rotate(-20deg);
+  }
+  
+  .arrow1 {
+    width: 0;
+    height: 0;
+    right: 5px;
+    top: 68px;
+    position: absolute;
+    border-bottom: 50px solid white;
+    border-right: 60px solid transparent;
+    transform: rotate(60deg);
+  }
+
+  .panah2 {
+    width: 100px;
+    height: 50px;
+    right: 52px;
+    bottom: 40px;
+    position: absolute;
+    background: white;
+    border-radius: 100px 100px 0 0;
+    transform: rotate(155deg);
+  }
+
+  .arrow2 {
+    width: 0;
+    height: 0;
+    left: 6px;
+    bottom: 68px;
+    position: absolute;
+    border-bottom: 50px solid white;
+    border-right: 58px solid transparent;
+    transform: rotate(240deg);
+  }
+
+  .redc {
+    width: 76px;
+    height: 76px;
+    left: 62px;
+    top: 62px;
+    position: absolute;
+    background: #C4243A;
+    border-radius: 62px;
+  }
+
+  .whitec {
+    width: 62px;
+    height: 62px;
+    left: 69px;
+    top: 69px;
+    position: absolute;
+    background: white;
+    border-radius: 62px;
+  }
+
+  .base {
+    width: 39px;
+    height: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #C4243A;
+  }
+
+  .shape1 {
+    width: 0;
+    height: 0;
+    left: 85px;
+    bottom: 87px;
+    border-bottom: 14px solid white;
+    border-right: 14px solid transparent;
+    position: absolute;
+    border-radius: 1%;
+  }
+
+  .shape2 {
+    width: 0;
+    height: 0;
+    left: 81px;
+    top: 87px;
+    border-top: 14px solid white;
+    border-left: 14px solid transparent;
+    position: absolute;
+    border-radius: 1%;
+  }
+
+  .shape3   {
+    width: 3px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    background: white;
+  }
+
+  .shape4   {
+    width: 12px;
+    height: 20px;
+    position: absolute;
+    top: 87px;
+    right: 80px;
+    background: white;
+  }
