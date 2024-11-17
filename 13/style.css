@@ -1,0 +1,247 @@
+.container {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    background: white;
+  }
+  
+  .shape {
+    position: absolute;
+  }
+  
+  .shape-1 {
+    width: 45px;
+    height: 45px;
+    left: 295px;
+    top: 195px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    background: #E53552;
+  }
+  
+  .shape-2 {
+    width: 42px;
+    height: 42px;
+    left: 355px;
+    top: 150px;
+    border-radius: 50%;
+    border: 24px solid #D62340;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-top-color: transparent;
+    transform: rotate(-45deg);
+  }
+  
+  .shape-3 {
+    width: 60px;
+    height: 60px;
+    left: 400.04px;
+    top: 300px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    background: #2E2E2E;
+  }
+  
+  .shape-4 {
+    width: 42px;
+    height: 42px;
+    left: 295px;
+    top: 240px;
+    border-radius: 50%;
+    border: 24px solid #D62340;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(-45deg);
+  }
+  
+  .shape-5 {
+    width: 45px;
+    height: 45px;
+    left: 250px;
+    top: 210px;
+  }
+  
+  .shape-5-1 {
+    width: 45px;
+    height: 45px;
+    left: 45px;
+    top: 45px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    background: #D62340;
+  }
+  
+  .shape-5-2 {
+    width: 22.55px;
+    height: 22.55px;
+    left: 33.77px;
+    top: 33.77px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    background: white;
+  }
+  
+  .shape-6 {
+    width: 42px;
+    height: 42px;
+    left: 250px;
+    top: 195px;
+    border-radius: 50%;
+    border: 24px solid #2e2e2e;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(45deg);
+  }
+  
+  .shape-7 {
+    width: 45px;
+    height: 45px;
+    left: 250px;
+    top: 255px;
+    background: #2E2E2E;
+    border-bottom-left-radius: 45px;
+  }
+  
+  .shape-8 {
+    width: 40px;
+    height: 15px;
+    left: 295px;
+    top: 285px;
+    background: #D62340;
+  }
+  
+  .shape-9 {
+    width: 40px;
+    height: 40px;
+    left: 60px;
+    top: 100px;
+    background: #E53552;
+  }
+  
+  .shape-10 {
+    width: 48px;
+    height: 48px;
+    left: 12px;
+    top: 12px;
+    border-radius: 50%;
+    border: 24px solid #D62340;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-top-color: transparent;
+    transform: rotate(-45deg);
+  }
+  
+  .shape-11 {
+    width: 60px;
+    height: 60px;
+    left: 0.07px;
+    top: 0.02px;
+    background: #2E2E2E;
+  }
+  
+  .shape-12 {
+    width: 36px;
+    height: 36px;
+    left: 60px;
+    top: 20px;
+    border-radius: 50%;
+    border: 22px solid #D62340;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(-45deg);
+  }
+  
+  .shape-13 {
+    width: 20px;
+    height: 20px;
+    left: 340px;
+    top: 220px;
+    background: #D62340;
+  }
+
+  .shape-14 {
+    width: 45px;
+    height: 45px;
+    left: 100px;
+    top: 44px;
+  }
+  
+  .shape-14-1 {
+    width: 45px;
+    height: 45px;
+    left: 45px;
+    top: 45px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    background: #D62340;
+  }
+  
+  .shape-14-2 {
+    width: 22.55px;
+    height: 22.55px;
+    left: 33.77px;
+    top: 33.77px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    background: white;
+  }
+  
+  .shape-15 {
+    width: 36px;
+    height: 36px;
+    left: 20px;
+    top: 60px;
+    border-radius: 50%;
+    border: 22px solid #2e2e2e;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(45deg);
+  }
+  
+  .shape-16 {
+    width: 45px;
+    height: 45px;
+    left: 100px;
+    top: 0px;
+    background: #2E2E2E;
+    border-bottom-left-radius: 45px;
+  }
+  
+  .shape-17 {
+    width: 12px;
+    height: 24px;
+    left: 0px;
+    top: 60px;
+    background: #D62340;
+  }
+  
+  .shape-18 {
+    width: 25px;
+    height: 20px;
+    left: 75px;
+    top: 0px;
+    background: #D62340;
+  }
+  
+  .shape-19 {
+    width: 20px;
+    height: 20px;
+    left: 340px;
+    top: 220px;
+    background: #D62340;
+  }
+
+.circle-quarter {
+    width: 100px;
+    height: 100px;
+    border: 50px solid red;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    transform: rotate(45deg);
+  }
